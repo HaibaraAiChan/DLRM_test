@@ -1,0 +1,18 @@
+embedding_bag/sample_1_cache_10
+num of unique indices is 3746461
+created block trace list, cache size is 374646
+created OPT dictionary
+embedding_bag/sample_1_cache_10/dataset_1_sampled_80_0_cached_trace_opt.txt
+embedding_bag/sample_1_cache_10/dataset_1_sampled_80_0_dataset_cache_miss_trace.txt
+Completed 10.0 %
+Completed 20.0 %
+Completed 30.0 %
+Completed 40.0 %
+Completed 50.0 %
+Completed 60.0 %
+Completed 70.0 %
+Completed 80.0 %
+Completed 90.0 %
+Completed 100.0 %
+hit count1253539
+miss count3746461
