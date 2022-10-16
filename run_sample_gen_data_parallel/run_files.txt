@@ -1,0 +1,117 @@
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_21.txt > embedding_bag/sample_1_cache_10/output_folder/output_121.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_22.txt > embedding_bag/sample_1_cache_10/output_folder/output_122.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_23.txt > embedding_bag/sample_1_cache_10/output_folder/output_123.txt
+
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_24.txt > embedding_bag/sample_1_cache_10/output_folder/output_124.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_26.txt > embedding_bag/sample_1_cache_10/output_folder/output_126.txt
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_25.txt > embedding_bag/sample_1_cache_10/output_folder/output_125.txt
+
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_27.txt > embedding_bag/sample_1_cache_10/output_folder/output_127.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_28.txt > embedding_bag/sample_1_cache_10/output_folder/output_128.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_29.txt > embedding_bag/sample_1_cache_10/output_folder/output_129.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_30.txt > embedding_bag/sample_1_cache_10/output_folder/output_130.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_31.txt > embedding_bag/sample_1_cache_10/output_folder/output_131.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_32.txt > embedding_bag/sample_1_cache_10/output_folder/output_132.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_33.txt > embedding_bag/sample_1_cache_10/output_folder/output_133.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_34.txt > embedding_bag/sample_1_cache_10/output_folder/output_134.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_35.txt > embedding_bag/sample_1_cache_10/output_folder/output_135.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_36.txt > embedding_bag/sample_1_cache_10/output_folder/output_136.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_37.txt > embedding_bag/sample_1_cache_10/output_folder/output_137.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_38.txt > embedding_bag/sample_1_cache_10/output_folder/output_138.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_39.txt > embedding_bag/sample_1_cache_10/output_folder/output_139.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_40.txt > embedding_bag/sample_1_cache_10/output_folder/output_140.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_41.txt > embedding_bag/sample_1_cache_10/output_folder/output_141.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_42.txt > embedding_bag/sample_1_cache_10/output_folder/output_142.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_43.txt > embedding_bag/sample_1_cache_10/output_folder/output_143.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_44.txt > embedding_bag/sample_1_cache_10/output_folder/output_144.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_45.txt > embedding_bag/sample_1_cache_10/output_folder/output_145.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_46.txt > embedding_bag/sample_1_cache_10/output_folder/output_146.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_47.txt > embedding_bag/sample_1_cache_10/output_folder/output_147.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_48.txt > embedding_bag/sample_1_cache_10/output_folder/output_148.txt
+
+
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_49.txt > embedding_bag/sample_1_cache_10/output_folder/output_149.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_50.txt > embedding_bag/sample_1_cache_10/output_folder/output_150.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_51.txt > embedding_bag/sample_1_cache_10/output_folder/output_151.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_52.txt > embedding_bag/sample_1_cache_10/output_folder/output_152.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_53.txt > embedding_bag/sample_1_cache_10/output_folder/output_153.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_54.txt > embedding_bag/sample_1_cache_10/output_folder/output_154.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_55.txt > embedding_bag/sample_1_cache_10/output_folder/output_155.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_56.txt > embedding_bag/sample_1_cache_10/output_folder/output_156.txt
+
+
+
+
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_57.txt > embedding_bag/sample_1_cache_10/output_folder/output_157.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_58.txt > embedding_bag/sample_1_cache_10/output_folder/output_158.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_59.txt > embedding_bag/sample_1_cache_10/output_folder/output_159.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_60.txt > embedding_bag/sample_1_cache_10/output_folder/output_160.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_61.txt > embedding_bag/sample_1_cache_10/output_folder/output_161.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_62.txt > embedding_bag/sample_1_cache_10/output_folder/output_162.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_63.txt > embedding_bag/sample_1_cache_10/output_folder/output_163.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_64.txt > embedding_bag/sample_1_cache_10/output_folder/output_164.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_65.txt > embedding_bag/sample_1_cache_10/output_folder/output_165.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_66.txt > embedding_bag/sample_1_cache_10/output_folder/output_166.txt
+
+
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_67.txt > embedding_bag/sample_1_cache_10/output_folder/output_167.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_68.txt > embedding_bag/sample_1_cache_10/output_folder/output_168.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_69.txt > embedding_bag/sample_1_cache_10/output_folder/output_169.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_70.txt > embedding_bag/sample_1_cache_10/output_folder/output_170.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_71.txt > embedding_bag/sample_1_cache_10/output_folder/output_171.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_72.txt > embedding_bag/sample_1_cache_10/output_folder/output_172.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_73.txt > embedding_bag/sample_1_cache_10/output_folder/output_173.txt
+
+python optgen.py 0.1 embedding_bag/sample_1/dataset_1_sampled_80_74.txt > embedding_bag/sample_1_cache_10/output_folder/output_174.txt
+
